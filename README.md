@@ -134,9 +134,7 @@ DharaaAI follows a multi-layer architecture:
 
 ---
 
-> ⚠️ **Large file notice:**
-> The machine learning model files in `server/ml_api/models/` may exceed GitHub's 100 MB limit. Use Git LFS or external storage, and remove them before pushing.
->
+
 ## 📂 Project Structure
 
 ```
