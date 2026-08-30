@@ -52,12 +52,10 @@ DharaaAI follows a multi-layer architecture:
 
 1️⃣ **Frontend Layer**
    - React.js
-   - Vite
    - Responsive and mobile-friendly UI
 
 2️⃣ **Backend Layer**
    - Node.js
-   - Express.js
    - REST API integration
    - Authentication & business logic
 
@@ -111,7 +109,6 @@ DharaaAI follows a multi-layer architecture:
 ### 🌐 Web Technologies
 - React.js
 - Node.js
-- Express.js
 - FastAPI
 
 ### 🧠 ML Libraries
@@ -128,6 +125,7 @@ DharaaAI follows a multi-layer architecture:
 - OpenWeatherMap API
 - Agmarknet API (Market prices)
 - News API
+- Gemini API
 
 ### 🧩 Version Control
 - Git & GitHub
